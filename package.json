@@ -1,8 +1,12 @@
 {
   "name": "kik",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Damn you Kik",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukebrooker/kik.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
